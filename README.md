@@ -5,3 +5,4 @@ While I don't have professional working experience as a developer, I have a soli
 Divyan-H/Divyan-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyan-H)](https://github.com/anuraghazra/github-readme-stats)
