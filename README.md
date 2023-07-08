@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Divyan</h1>
-<hr>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p>An aspiring developer embarking on an exciting coding journey. Eager to learn and grow, I'm exploring various programming languages, frameworks, and tools. With a curious and determined mindset, I'm ready to tackle challenges, collaborate with fellow developers, and dive into the world of software development. Let's code together!</p>
 
