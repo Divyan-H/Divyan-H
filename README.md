@@ -1,16 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Divyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p>An aspiring developer embarking on an exciting coding journey. Eager to learn and grow, I'm exploring various programming languages, frameworks, and tools. With a curious and determined mindset, I'm ready to tackle challenges, collaborate with fellow developers, and dive into the world of software development. Let's code together!</p>
+<h3 align="center">A developer from India</h3>
+<p>An aspiring developer embarking on a coding journey. Eager to learn and grow, I'm exploring various programming languages, frameworks, and tools. With a curious and determined mindset, I'm ready to tackle challenges, collaborate with fellow developers, and dive into the world of software development. Let's code together!</p>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fjk7wt757zr0r52gehcfgaozks4dngkodxtr0osm&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyan-h&label=Profile%20views&color=0e75b6&style=flat" alt="divyan-h" /> </p>
 
-- 🌱 I’m currently learning **Javascript,Tailwing CSS**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Python , MySQL , HTML , CSS**
+- 💬 Ask me about **Machine Learning , Python , MySQL , HTML , CSS**
 
 - 📫 How to reach me **divyanthecoder@gmail.com**
 
